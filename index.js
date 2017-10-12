@@ -1,1 +1,1 @@
-  
+destructivelyAppendKitten(name) {}
