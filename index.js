@@ -1,1 +1,5 @@
-function destructivelyAppendKitten(name) {}
+function destructivelyAppendKitten(name) {
+  name.push("Ralph")
+  )
+}
+
