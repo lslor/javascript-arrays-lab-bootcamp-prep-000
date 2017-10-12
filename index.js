@@ -18,6 +18,6 @@ function appendKitten(name) {
   kittens.push("Broom")
 }
 
-function removeLastKitten(name) {
+function appendKitten(name) {
   kittens.slice(-2)
 }
