@@ -19,5 +19,5 @@ function appendKitten(name) {
 }
 
 function removeFirstKitten(name) {
-  kittens.slice(-2)
+  kittens = [..., "Broom"]
 }
